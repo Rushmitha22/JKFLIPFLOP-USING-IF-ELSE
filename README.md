@@ -54,7 +54,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ### RTL OUTPUT :
 
-![JK WAVE](https://github.com/user-attachments/assets/acb3c7f4-5610-4593-bfcf-98d7c13b09e6)
+![jk wave](https://github.com/user-attachments/assets/1a1d76c2-366b-4dfb-b9d8-ff2eff489de8)
+
 
 
 ### RESULT:
